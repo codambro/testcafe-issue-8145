@@ -1,0 +1,14 @@
+{
+  "name": "testcafe-issue-8145",
+  "version": "1.0.0",
+  "description": "Reproduce testcafe issue 8145",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome:headless"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^3.5.0"
+  }
+}
